@@ -1,5 +1,7 @@
 # Challenge Amigo Secreto
-Um jogo simples  feito em JavaScript para adicionar nomes de amigos a uma lista e sortear um deles aleatoriamente 
+Um jogo simples  feito em JavaScript para adicionar nomes de amigos a uma lista e sortear um deles aleatoriamente.
+Link do jogo: [https://challenge-amigo-secreto-oracle-five.vercel.app/]
+
 
 <div>
 <h2>Funcionalidades</h2>
@@ -20,6 +22,8 @@ Um jogo simples  feito em JavaScript para adicionar nomes de amigos a uma lista 
 </div>
 <h2>Como Usar</h2>
 
-1. Acesse o site: []
+1. Acesse o site: [https://challenge-amigo-secreto-oracle-five.vercel.app/]
 2. Digite o nome do amigo no campo de entrada e clique em "Adicionar".
 3. Após adicionar pelo menos dois amigos, clique em "Sortear" para escolher um aleatoriamente.
+
+![image](https://github.com/user-attachments/assets/8338854d-38c6-4753-bdfd-841b58c4ed90)
